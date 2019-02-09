@@ -1,4 +1,8 @@
 
+body {
+	background-color: black;
+}
+
 header {
 	margin: 70px;
 }
@@ -8,9 +12,6 @@ header {
 	display: inline-block;
 }
 
-.color {
-	background-color: black;
-}
 
 li {
 	margin-left: 120px;
