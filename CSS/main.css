@@ -16,3 +16,9 @@ header {
 li {
 	margin-left: 120px;
 }
+
+h1 {
+	color: #bdc3c7;
+	text-align: center;
+	font-size: 30px;
+}
