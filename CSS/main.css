@@ -1,4 +1,17 @@
 
+header {
+	margin: 100px;
+}
+
+
 .display-inline-block {
 	display: inline-block;
+}
+
+.color {
+	background-color: black;
+}
+
+li {
+	margin-left: 70px;
 }
