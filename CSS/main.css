@@ -78,3 +78,35 @@ h1 {
  transform: rotateY(180deg);
   z-index: 1;
 }
+
+
+.form-section {
+
+ width: 100%
+ background-color: red;
+
+}
+
+.form-style {
+
+  margin: auto;
+}
+
+.input-style {
+background-color: transparent;
+width: 300px;
+border: none;
+border-bottom: 3px solid red;
+padding-bottom: 10px;
+padding-top: 10px;
+
+
+}
+
+input:focus {
+  outline: none;
+}
+
+input::placerholder {
+  color: red;
+}
