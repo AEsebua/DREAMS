@@ -12,6 +12,10 @@ header {
 	display: inline-block;
 }
 
+header {
+  width: 100%
+}
+
 li {
 	margin-left: 120px;
 }
@@ -20,7 +24,7 @@ h1 {
 	color: #BDBDBB;
 	text-align: center;
 	font-size: 30px;
-	margin-bottom: 50px;
+	
 }
 
 .section-div {
