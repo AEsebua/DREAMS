@@ -12,13 +12,16 @@ header {
 	display: inline-block;
 }
 
+a:hover {
+  color: red;
+  }
 
 li {
 	margin-left: 120px;
 }
 
 h1 {
-	color: #bdc3c7;
+	color: #BDBDBB;
 	text-align: center;
 	font-size: 30px;
 	margin-bottom: 50px;
@@ -42,4 +45,19 @@ h1 {
 	margin-bottom: 30px;
 
     
+    }
+
+    div h2 {
+    	color: #BDBDBB;
+    	text-align: center;
+    	margin-top: 60px;
+    	font-size: 20px;
+
+    }
+
+    div p {
+    	color: #BDBDBB;
+    	margin-left: 30px;
+    	margin-top: 10px;
+    	
     }
