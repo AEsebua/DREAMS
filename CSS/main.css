@@ -16,9 +16,10 @@ nav {
 }
 
 .display-inline-block {
-	
-  display: inline-block;
+	display: inline-block;
 }
+
+
 
 
 
@@ -36,7 +37,7 @@ h1 {
 	
 }
 
-.div-section {
+.section-div {
     width: 100%;
     background-color: #000000;
     margin: auto;
@@ -157,6 +158,7 @@ input::placerholder {
 h2 {
   font-size: 30px;
   text-align: center;
+  
   padding-bottom: 50px;
   color: #BDBDBB;
 }
@@ -201,3 +203,7 @@ h5 {
 
 }
 
+
+
+
+/*სიზმრების ჩანაწერების გვერდის დასასრული*/
