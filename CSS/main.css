@@ -1,26 +1,44 @@
 
+/*გლობალური სტილები*/
+
 body {
 	background-color: #000000;
 }
 
 header {
 	margin: 70px;
+  width: 100%
 }
 
+header {
+  
+}
+
+nav {
+   width: 100%;
+}
 
 .display-inline-block {
 	display: inline-block;
 }
 
-header {
-  width: 100%
+* img {
+ filter: grayscale(1);
 }
 
+a::hover {
+
+  filter: grayscale(0);
+}
+
+/*მთვარი მენიუ*/
+
 li {
-	margin-left: 120px;
+	margin-left: 110px;
 }
 
 h1 {
+  width: 100%;
 	color: #BDBDBB;
 	text-align: center;
 	font-size: 30px;
@@ -28,6 +46,7 @@ h1 {
 }
 
 .section-div {
+    width: 100%;
     background-color: #000000;
     margin: auto;
    	width: 60%;
@@ -79,6 +98,7 @@ h1 {
   z-index: 1;
 }
 
+/*რეგისტრაციის გვერდი*/
 
 .form-section {
 
@@ -110,3 +130,28 @@ input:focus {
 input::placerholder {
   color: red;
 }
+
+/*სიზმრების ჩანაწერების გვერდი*/
+
+.img-section {
+
+  margin-left: 160px;
+  padding-bottom: 20px;
+}
+
+.article-section {
+   width: 70%;
+   margin-left: 170px;
+   color: #ffffff;
+}
+
+h2 {
+  font-size: 24px;
+  margin-left: 170px;
+  
+  padding-bottom: 20px;
+  color: #ffffff
+}
+
+
+/*სიზმრების ჩანაწერების გვერდის დასასრული*/
