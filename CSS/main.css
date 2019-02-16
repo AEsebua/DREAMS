@@ -21,6 +21,8 @@ nav {
 
 
 
+
+
 /*მთვარი მენიუ*/
 
 li {
@@ -28,14 +30,14 @@ li {
 }
 
 h1 {
-  width: 100%;
+  
 	color: #BDBDBB;
 	text-align: center;
 	font-size: 30px;
 	
 }
 
-.section-div {
+.div-section{
     width: 100%;
     background-color: #000000;
     margin: auto;
@@ -154,38 +156,40 @@ input::placerholder {
 }
 
 h2 {
-  font-size: 34px;
+  font-size: 30px;
   text-align: center;
   
   padding-bottom: 50px;
-  color: #ffffff;
+  color: #BDBDBB;
 }
+
+
 
 h3 {
   text-align: center;
-  color: #ffffff;
+  color: #BDBDBB;
 }
 
 h4 {
   font-size: 24px;
   margin-top: 20px;
   text-align: center;
-  color: #ffffff;
+  color: #BDBDBB;
 }
 
 /*სიზმრების ჩანაწერების გვერდი*/
 
 
 .img-section {
-
+  width: 100%;
   margin-left: 160px;
   padding-bottom: 20px;
 }
 
 .article-section {
-   width: 70%;
+   width: 60%;
    margin-left: 170px;
-   color: #ffffff;
+   color: #BDBDBB;
 }
 
 h5 {
@@ -194,7 +198,7 @@ h5 {
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 34px;
-  color: #ffffff;
+  color:#BDBDBB;
 
 
 }
